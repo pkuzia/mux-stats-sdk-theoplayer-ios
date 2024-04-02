@@ -17,7 +17,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/THEOplayer/theoplayer-sdk-ios.git",
-            from: "6.13"
+            from: "6.13.0"
         )
     ],
     targets: [
